@@ -11,7 +11,7 @@ const Footer = () => {
             <h4 className="font-semibold text-lg mb-2">About Us</h4>
             <p className="text-sm">
               We are committed to providing the best service in the travel
-              industry, helping you create unforgettable experiences.
+              industry, helping you create nforgettable experiences.
             </p>
           </div>
 
