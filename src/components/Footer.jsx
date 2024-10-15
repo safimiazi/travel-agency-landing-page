@@ -21,7 +21,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a href="#" className="hover:underline">
-                  Hom
+                  Home
                 </a>
               </li>
               <li>
