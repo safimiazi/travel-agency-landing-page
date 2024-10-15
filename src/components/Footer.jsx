@@ -47,7 +47,7 @@ const Footer = () => {
           <div className="mb-6 md:mb-0 md:w-1/4">
             <h4 className="font-semibold text-lg mb-2">Contact Us</h4>
             <p className="text-sm">Email: info@example.com</p>
-            <p className="text-sm">Phone: (123) 456-790000</p>
+            <p className="text-sm">Phone: (123) 456-7900000</p>
             <div className="mt-4">
               <h4 className="font-semibold text-lg mb-2">Follow Us</h4>
               <div className="flex space-x-4">
